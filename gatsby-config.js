@@ -1,10 +1,11 @@
 const config = require('./src/config');
 
 module.exports = {
+  pathPrefix: '/personal-website',
   siteMetadata: {
     title: 'Ossama Abdeen',
     description: `I am Ossama Abdein, a junior Front-End software developer. I'm trying to make responsive and accessible web apps that guarantee users a good & smooth browsing experience. Welcome to my personal website and make yourself at home.`,
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+    siteUrl: 'https://ossamaabdein.github.io/personal-website', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     // twitterUsername: ''
   },
