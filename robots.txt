@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://ossamaabdein.github.io/sitemap.xml
+Sitemap: https://ossamaabdein.github.io/personal-website/sitemap-index.xml
 Host: https://ossamaabdein.github.io
