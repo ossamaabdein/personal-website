@@ -4,6 +4,7 @@ import styled from 'styled-components';
 import { Icon } from '@components/icons';
 import { socialMedia } from '@config';
 
+
 const StyledFooter = styled.footer`
   ${({ theme }) => theme.mixins.flexCenter};
   flex-direction: column;
