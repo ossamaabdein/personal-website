@@ -7,7 +7,7 @@ tech:
   - Angular
   - CSS
   - Bootstrap
-showInProjects: false
+showInProjects: true
 ---
 
 Claquette is a Singla Page Application (SPA) Movie and Tv database with categories to give the user a good and smooth surfing experience.

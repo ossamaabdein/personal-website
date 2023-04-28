@@ -6,7 +6,7 @@ company: 'Beyond Creation'
 tech:
   - React
   - SCSS
-showInProjects: false
+showInProjects: true
 ---
 
 A comprehensive and integrated report that represents Ajman's efforts regarding its sustainability plan.
